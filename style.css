@@ -1,0 +1,43 @@
+.carousel-item {
+
+height: 32rem;
+background:#777;
+color: white;
+position: relative;
+
+}
+
+
+
+.container {
+position: absolute;
+top:0;
+left: 0;
+right: 0;
+padding-top: 50px;
+}
+
+.btn  {
+
+margin-top: 20px;
+
+
+}
+
+.hd {
+
+
+
+    
+background-color : #1d4ed8;
+background-size : 100%;
+font-weight: bold;
+-webkit-background-clip: text;
+-moz-background-clip: text;
+-webkit-text-fill-color: transparent;
+-moz-text-fill-color : transparent;
+
+
+
+
+}
